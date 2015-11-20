@@ -227,4 +227,8 @@ public class ParseScript : MonoBehaviour {
 		currency += 50;
 		UpdateUser();
 	}
+
+    public void AddingAFunction()
+    {
+    }
 }
