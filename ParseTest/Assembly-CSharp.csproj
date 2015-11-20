@@ -54,14 +54,20 @@
      <None Include="Assets\link.xml" />
      <None Include="Assets\Parse\Parse.Unity.xml" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Users/Logan/Documents/DEV/Unity Versions/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/Logan/Documents/DEV/Unity Versions/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Users/Logan/Documents/DEV/Unity Versions/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Users/Logan/Documents/DEV/Unity Versions/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
  <Reference Include="Parse.Unity">
- <HintPath>C:/Users/Logan/Desktop/ParseTest/Assets/Parse/Parse.Unity.dll</HintPath>
+ <HintPath>C:/Users/Logan/Documents/GitHub/ParseTestRepo/ParseTest/Assets/Parse/Parse.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Users/Logan/Documents/DEV/Unity Versions/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
