@@ -2,43 +2,28 @@ Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 580 (ID=0x1080)
-    Vendor:   NVIDIA
-    VRAM:     1487 MB
+    Renderer: Intel(R) HD Graphics 530 (ID=0x191b)
+    Vendor:   Intel
+    VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Parse.Unity.dll (this message is harmless)
-Loading C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Parse.Unity.dll into Unity Child Domain
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.084 seconds
-desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Parse.Unity.dll (this message is harmless)
+Loading C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\Parse.Unity.dll into Unity Child Domain
+Platform assembly: C:\Users\CAGMA-NS0957\Documents\GitHub\New folder\ParseTestRepo\ParseTest\ParseExample_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.045 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
 <RI> Input initialized.
-<RI> Initialized touch support.
-Platform assembly: C:\Users\Logan\Documents\GitHub\ParseTestRepo\ParseTest\ParseExample_Data\Managed\System.dll (this message is harmless)
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 4e5c -> priority: 1 
-  Thread -> id: 4e60 -> priority: 1 
-Login Failed!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
-
-Signed Up!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
-
-Save Successful!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
-
-Save Successful!
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
-
